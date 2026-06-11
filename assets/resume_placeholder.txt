@@ -1,0 +1,8 @@
+Robert Nyaranga — Resume Placeholder
+=====================================
+
+Replace this file with your actual resume PDF (e.g., assets/resume.pdf)
+and update the download link in components/hero.py.
+
+Contact: nyarangaro@gmail.com
+LinkedIn: https://www.linkedin.com/in/robert-nyaranga/
